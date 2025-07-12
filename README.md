@@ -1,2 +1,3 @@
 The commands and solver techniques of DEVSIM are not explained in sufficient detail and there is a lack of clarity regarding the implementation of node-based and edge-based models. 
+
 I was able to devise a method to visualize the construction of these models, to augment the documentation. A simple Python script, along with Matplotlib for visualization, was used to plot the edges and indicate their direction—from the starting node to the ending node. This visualization proved extremely helpful in understanding the structure of the models, particularly when calculating and accessing electron and hole current densities in 2D devices. I also contributed this code to the DEVSIM community by sharing it on their discussion forum.
